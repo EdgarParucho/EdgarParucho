@@ -4,7 +4,7 @@
 <img alt="Edgar's banner" src="./img/banner.jpg" width="100%">
 </br></br>
 
-## I'm a full stack web developer.
+# I'm a full stack web developer.
 
 </br>
 
@@ -33,30 +33,30 @@
 	<th>Watching</th>
 	</tr>
 	<tr>
-		<td width="300px">
-			<img src="https://edteam-media.s3.amazonaws.com/courses/medium/8571372f-8098-4b1b-8ef0-714a3cc0f8e6.png" alt="EDteam TypesScript poster" title="TypeScript">
+		<td width="200px">
+			<img src="https://edteam-media.s3.amazonaws.com/courses/medium/8571372f-8098-4b1b-8ef0-714a3cc0f8e6.png" alt="EDteam TypesScript poster" title="TypeScript por EDteam">
 		</td>
-		<td width="300px">
-			<img src="https://a.storyblok.com/f/87002/1280x720/18667defa9/curso-vue-3-desde-cero.jpg" alt="EscuelaVue Vue poster" title="Vue JS">
+		<td width="200px">
+			<img src="https://a.storyblok.com/f/87002/1280x720/18667defa9/curso-vue-3-desde-cero.jpg" alt="EscuelaVue Vue poster" title="Vue JS por EscuelaVue">
 		</td>
 	</tr>
 	<tr>
 	<th>Finished</th>
 	</tr>
 	<tr>
-		<td width="300px">
-			<img src="https://edteam-media.s3.amazonaws.com/courses/medium/75715d17-7b33-40a0-8520-e3b760c4dfb4.png" alt="EDteam Testing con vue poster" title="Testing con Vue 3">
+		<td width="200px">
+			<img src="https://edteam-media.s3.amazonaws.com/courses/medium/75715d17-7b33-40a0-8520-e3b760c4dfb4.png" alt="EDteam Testing con vue poster" title="Testing con Vue 3 por EDteam">
 		</td>
-		<td>
-			<img src="https://edteam-media.s3.amazonaws.com/courses/medium/9a0a8cac-b13c-4ede-bdcd-369096c97e46.png" alt="EDteam Vuex poster" title="Manejo de estado con Vuex">
+		<td width="200px">
+			<img src="https://edteam-media.s3.amazonaws.com/courses/medium/9a0a8cac-b13c-4ede-bdcd-369096c97e46.png" alt="EDteam Vuex poster" title="Manejo de estado con Vuex por EDteam">
 		</td>
-		<td>
-			<img src="https://edteam-media.s3.amazonaws.com/courses/medium/44201488-a2cc-4e19-9ba2-f13c407a0622.jpg" alt="EDteam Tailwind poster" title="Tailwind CSS">
+		<td width="200px">
+			<img src="https://edteam-media.s3.amazonaws.com/courses/medium/44201488-a2cc-4e19-9ba2-f13c407a0622.jpg" alt="EDteam Tailwind poster" title="Tailwind CSS por EDteam">
 		</td>
 	</tr>
 </table>
 
-## Skills:
+# Skills:
 
 </br>
 
@@ -88,7 +88,7 @@
 </br>
 </br>
 
-## Contact:
+# Contact:
 
 </br>
 
