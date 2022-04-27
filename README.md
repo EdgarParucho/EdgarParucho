@@ -24,7 +24,7 @@
 </br>
 </br>
 
-# Last courses:
+# Recent studies:
 
 </br>
 
@@ -34,24 +34,33 @@
 	</tr>
 	<tr>
 		<td width="200px">
-			<img src="https://edteam-media.s3.amazonaws.com/courses/medium/8571372f-8098-4b1b-8ef0-714a3cc0f8e6.png" alt="EDteam TypesScript poster" title="TypeScript por EDteam">
+			<img src="https://a.storyblok.com/f/87002/1280x720/18667defa9/curso-vue-3-desde-cero.jpg" alt="EscuelaVue Vue poster" title="Vue JS por EscuelaVue">
+			<a href="https://escuelavue.es/cursos/curso-vue-3-desde-cero/">Vue 3 - EscuelaVue (ES)</a>
+		</td>
+	</tr>
+	<tr>
+	<th>Last completed</th>
+	</tr>
+	<tr>
+		<td width="200px">
+			<img src="https://i.ytimg.com/an_webp/BwuLxPH8IDs/mqdefault_6s.webp?du=3000&sqp=CPWFpZMG&rs=AOn4CLBWZh6LWvylyAB83FLEgmrvdSAJXQ" alt="Academind TypesScript poster" title="TypeScript by Academind">
+			<a href="https://www.youtube.com/watch?v=BwuLxPH8IDs">TypeScript - Academind (EN)</a>
 		</td>
 		<td width="200px">
-			<img src="https://a.storyblok.com/f/87002/1280x720/18667defa9/curso-vue-3-desde-cero.jpg" alt="EscuelaVue Vue poster" title="Vue JS por EscuelaVue">
+			<img src="https://edteam-media.s3.amazonaws.com/courses/medium/8571372f-8098-4b1b-8ef0-714a3cc0f8e6.png" alt="EDteam TypesScript poster" title="TypeScript por EDteam">
+			<a href="https://app.ed.team/cursos/typescript">TypeScript - EDteam (ES)</a>
 		</td>
-	</tr>
-	<tr>
-	<th>Finished</th>
-	</tr>
-	<tr>
 		<td width="200px">
 			<img src="https://edteam-media.s3.amazonaws.com/courses/medium/75715d17-7b33-40a0-8520-e3b760c4dfb4.png" alt="EDteam Testing con vue poster" title="Testing con Vue 3 por EDteam">
+			<a href="https://app.ed.team/cursos/testing-vue">Testing+Vue 3 - EDteam (ES)</a>
 		</td>
 		<td width="200px">
 			<img src="https://edteam-media.s3.amazonaws.com/courses/medium/9a0a8cac-b13c-4ede-bdcd-369096c97e46.png" alt="EDteam Vuex poster" title="Manejo de estado con Vuex por EDteam">
+			<a href="https://app.ed.team/cursos/vuex">Vuex - EDteam (ES)</a>
 		</td>
 		<td width="200px">
 			<img src="https://edteam-media.s3.amazonaws.com/courses/medium/44201488-a2cc-4e19-9ba2-f13c407a0622.jpg" alt="EDteam Tailwind poster" title="Tailwind CSS por EDteam">
+			<a href="https://app.ed.team/cursos/tailwind">Tailwind - EDteam (ES)</a>
 		</td>
 	</tr>
 </table>
