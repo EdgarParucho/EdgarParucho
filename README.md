@@ -35,9 +35,9 @@
 	<tr>
 		<td width="300px">
 			<img src="https://edteam-media.s3.amazonaws.com/courses/medium/e4c0213a-45bb-48c8-b941-6d7573cf3363.png" alt="EDteam clon de telegram poster" title="Clon de Telegram por EDteam">
-			<a href="https://escuelavue.es/cursos/curso-vue-3-desde-cero/">Clon de Telegram con Vue 3 y TypeScript</a>
+			<a href="https://app.ed.team/cursos/clon-telegram">Clon de Telegram con Vue 3 y TypeScript</a>
 			</br>
-			<span>Por Escuela Vue (ES)</span>
+			<span>Por EDteam (ES)</span>
 		</td>
 		<td width="300px">
 			<img src="https://a.storyblok.com/f/87002/1280x720/18667defa9/curso-vue-3-desde-cero.jpg" alt="EscuelaVue Vue poster" title="Vue JS por Escuela Vue">
