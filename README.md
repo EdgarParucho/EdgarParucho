@@ -1,4 +1,4 @@
-# <img alt="Edgar's avatar" src="./img/avatar.png" width="250px"> Hi, I'm Edgar
+# <img alt="Edgar's avatar" src="./img/avatar.png" width="150px"> Hi, I'm Edgar
 </br>
 
 <img alt="Edgar's banner" src="./img/banner.jpg" width="100%">
@@ -33,34 +33,48 @@
 	<th>Watching</th>
 	</tr>
 	<tr>
-		<td width="200px">
-			<img src="https://a.storyblok.com/f/87002/1280x720/18667defa9/curso-vue-3-desde-cero.jpg" alt="EscuelaVue Vue poster" title="Vue JS por EscuelaVue">
-			<a href="https://escuelavue.es/cursos/curso-vue-3-desde-cero/">Vue 3 - EscuelaVue (ES)</a>
+		<td width="300px">
+			<img src="https://edteam-media.s3.amazonaws.com/courses/medium/e4c0213a-45bb-48c8-b941-6d7573cf3363.png" alt="EDteam clon de telegram poster" title="Clon de Telegram por EDteam">
+			<a href="https://escuelavue.es/cursos/curso-vue-3-desde-cero/">Clon de Telegram con Vue 3 y TypeScript</a>
+			</br>
+			<span>Por Escuela Vue (ES)</span>
+		</td>
+		<td width="300px">
+			<img src="https://a.storyblok.com/f/87002/1280x720/18667defa9/curso-vue-3-desde-cero.jpg" alt="EscuelaVue Vue poster" title="Vue JS por Escuela Vue">
+			<a href="https://escuelavue.es/cursos/curso-vue-3-desde-cero/">Vue 3</a>
+			</br>
+			<span>Por Escuela Vue (ES)</span>
 		</td>
 	</tr>
 	<tr>
 	<th>Last completed</th>
 	</tr>
 	<tr>
-		<td width="200px">
-			<img src="https://i.ytimg.com/an_webp/BwuLxPH8IDs/mqdefault_6s.webp?du=3000&sqp=CPWFpZMG&rs=AOn4CLBWZh6LWvylyAB83FLEgmrvdSAJXQ" alt="Academind TypesScript poster" title="TypeScript by Academind">
-			<a href="https://www.youtube.com/watch?v=BwuLxPH8IDs">TypeScript - Academind (EN)</a>
-		</td>
-		<td width="200px">
+		<td width="300px">
 			<img src="https://edteam-media.s3.amazonaws.com/courses/medium/8571372f-8098-4b1b-8ef0-714a3cc0f8e6.png" alt="EDteam TypesScript poster" title="TypeScript por EDteam">
-			<a href="https://app.ed.team/cursos/typescript">TypeScript - EDteam (ES)</a>
+			</br>
+			<a href="https://app.ed.team/cursos/typescript">TypeScript desde cero</a>
+			</br>
+			<span>Por EDteam (ES)</span>
+			</br>
 		</td>
-		<td width="200px">
+		<td width="300px">
 			<img src="https://edteam-media.s3.amazonaws.com/courses/medium/75715d17-7b33-40a0-8520-e3b760c4dfb4.png" alt="EDteam Testing con vue poster" title="Testing con Vue 3 por EDteam">
-			<a href="https://app.ed.team/cursos/testing-vue">Testing+Vue 3 - EDteam (ES)</a>
+			<a href="https://app.ed.team/cursos/testing-vue">Testing con Vue 3</a>
+			</br>
+			<span>Por EDteam (ES)</span>
 		</td>
-		<td width="200px">
+		<td width="300px">
 			<img src="https://edteam-media.s3.amazonaws.com/courses/medium/9a0a8cac-b13c-4ede-bdcd-369096c97e46.png" alt="EDteam Vuex poster" title="Manejo de estado con Vuex por EDteam">
-			<a href="https://app.ed.team/cursos/vuex">Vuex - EDteam (ES)</a>
+			<a href="https://app.ed.team/cursos/vuex">Manejo de estado con Vuex</a>
+			</br>
+			<span>Por EDteam (ES)</span>
 		</td>
-		<td width="200px">
+		<td width="300px">
 			<img src="https://edteam-media.s3.amazonaws.com/courses/medium/44201488-a2cc-4e19-9ba2-f13c407a0622.jpg" alt="EDteam Tailwind poster" title="Tailwind CSS por EDteam">
-			<a href="https://app.ed.team/cursos/tailwind">Tailwind - EDteam (ES)</a>
+			<a href="https://app.ed.team/cursos/tailwind">Tailwind CSS desde cero</a>
+			</br>
+			<span>Por EDteam (ES)</span>
 		</td>
 	</tr>
 </table>
