@@ -1,10 +1,7 @@
-# <img alt="Edgar's avatar" src="./img/avatar.png" width="150px"> Hi, I'm Edgar
-</br>
-
 <img alt="Edgar's banner" src="./img/banner.jpg" width="100%">
 </br></br>
 
-# I'm a full stack web developer.
+# Hi, I'm Edgar, a full stack web developer.
 
 </br>
 
@@ -22,9 +19,40 @@
 </p>
 
 </br>
+
+# Skills
+
 </br>
 
-# Recent studies:
+<table>
+	<tr>
+		<td width="60px">
+			<img src="./img/logo-js.svg" title="JavaScript" alt="JavaScript logo">
+		</td>
+		<td width="60px">
+			<img src="./img/logo-typescript.svg" title="TypeScript" alt="TypeScript logo">
+		</td>
+		<td width="70px">
+			<img src="./img/logo-vue.png" title="Vue JS" alt="Vue JS logo">
+		</td>
+		<td width="80px">
+			<img src="./img/logo-node.png" title="Node JS" alt="Node JS logo">
+		</td>
+		<td width="90px">
+			<img src="./img/logo-mongo.png" title="Mongo DB" alt="Mongo DB logo">
+		</td>
+		<td width="63px">
+			<img src="./img/logo-html.svg" title="HTML" alt="HTML logo">
+		</td>
+		<td width="63px">
+			<img src="./img/logo-css.svg" title="CSS" alt="CSS logo">
+		</td>
+	</tr>
+</table>
+
+</br></br>
+
+# Recent studies
 
 </br>
 
@@ -33,12 +61,6 @@
 	<th>Watching</th>
 	</tr>
 	<tr>
-		<td width="300px">
-			<img src="https://edteam-media.s3.amazonaws.com/courses/medium/e4c0213a-45bb-48c8-b941-6d7573cf3363.png" alt="EDteam clon de telegram poster" title="Clon de Telegram por EDteam">
-			<a href="https://app.ed.team/cursos/clon-telegram">Clon de Telegram con Vue 3 y TypeScript</a>
-			</br>
-			<span>Por EDteam (ES)</span>
-		</td>
 		<td width="300px">
 			<img src="https://a.storyblok.com/f/87002/1280x720/18667defa9/curso-vue-3-desde-cero.jpg" alt="EscuelaVue Vue poster" title="Vue JS por Escuela Vue">
 			<a href="https://escuelavue.es/cursos/curso-vue-3-desde-cero/">Vue 3</a>
@@ -50,6 +72,12 @@
 	<th>Last completed</th>
 	</tr>
 	<tr>
+		<td width="300px">
+			<img src="https://edteam-media.s3.amazonaws.com/courses/medium/e4c0213a-45bb-48c8-b941-6d7573cf3363.png" alt="EDteam clon de telegram poster" title="Clon de Telegram por EDteam">
+			<a href="https://app.ed.team/cursos/clon-telegram">Clon de Telegram con Vue 3 y TypeScript</a>
+			</br>
+			<span>Por EDteam (ES)</span>
+		</td>
 		<td width="300px">
 			<img src="https://edteam-media.s3.amazonaws.com/courses/medium/8571372f-8098-4b1b-8ef0-714a3cc0f8e6.png" alt="EDteam TypesScript poster" title="TypeScript por EDteam">
 			</br>
@@ -79,39 +107,9 @@
 	</tr>
 </table>
 
-# Skills:
-
 </br>
 
-<table>
-	<tr>
-		<td width="60px">
-			<img src="./img/logo-js.svg" title="JavaScript" alt="JavaScript logo">
-		</td>
-		<td width="60px">
-			<img src="./img/logo-typescript.svg" title="TypeScript" alt="TypeScript logo">
-		</td>
-		<td width="70px">
-			<img src="./img/logo-vue.png" title="Vue JS" alt="Vue JS logo">
-		</td>
-		<td width="80px">
-			<img src="./img/logo-node.png" title="Node JS" alt="Node JS logo">
-		</td>
-		<td width="90px">
-			<img src="./img/logo-mongo.png" title="Mongo DB" alt="Mongo DB logo">
-		</td>
-		<td width="63px">
-			<img src="./img/logo-html.svg" title="HTML" alt="HTML logo">
-		</td>
-		<td width="63px">
-			<img src="./img/logo-css.svg" title="CSS" alt="CSS logo">
-		</td>
-	</tr>
-</table>
-</br>
-</br>
-
-# Contact:
+# Contact
 
 </br>
 
