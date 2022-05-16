@@ -73,6 +73,12 @@
 	</tr>
 	<tr>
 		<td width="300px">
+			<img src="https://www.vuemastery.com/images/hero/background0.jpg" alt="Vue Mastery Intro to Vue 3 poster" title="Vue 3 by Vue Mastery">
+			<a href="https://www.vuemastery.com/courses/intro-to-vue-3/communicating-events-vue3">Intro to Vue 3</a>
+			</br>
+			<span>Por Vue Mastery (EN)</span>
+		</td>
+		<td width="300px">
 			<img src="https://edteam-media.s3.amazonaws.com/courses/medium/e4c0213a-45bb-48c8-b941-6d7573cf3363.png" alt="EDteam clon de telegram poster" title="Clon de Telegram por EDteam">
 			<a href="https://app.ed.team/cursos/clon-telegram">Clon de Telegram con Vue 3 y TypeScript</a>
 			</br>
@@ -95,12 +101,6 @@
 		<td width="300px">
 			<img src="https://edteam-media.s3.amazonaws.com/courses/medium/9a0a8cac-b13c-4ede-bdcd-369096c97e46.png" alt="EDteam Vuex poster" title="Manejo de estado con Vuex por EDteam">
 			<a href="https://app.ed.team/cursos/vuex">Manejo de estado con Vuex</a>
-			</br>
-			<span>Por EDteam (ES)</span>
-		</td>
-		<td width="300px">
-			<img src="https://edteam-media.s3.amazonaws.com/courses/medium/44201488-a2cc-4e19-9ba2-f13c407a0622.jpg" alt="EDteam Tailwind poster" title="Tailwind CSS por EDteam">
-			<a href="https://app.ed.team/cursos/tailwind">Tailwind CSS desde cero</a>
 			</br>
 			<span>Por EDteam (ES)</span>
 		</td>
