@@ -40,8 +40,8 @@
 </table>
 
 ### Links
-<a href="https://edgarparucho.github.io">Website</a>
+<a target="_blank" href="https://edgarparucho.github.io">Website</a>
 <br>
-<a href="https://linkedin.com/in/edgarparucho/">LinkedIn profile</a>
+<a target="_blank" href="https://linkedin.com/in/edgarparucho/">LinkedIn profile</a>
 <br>
-<a href="https://www.goodreads.com/user/show/159675716-edgar-parucho">Goodreads profile</a>
+<a target="_blank" href="https://www.goodreads.com/user/show/159675716-edgar-parucho">Goodreads profile</a>
