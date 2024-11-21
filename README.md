@@ -42,6 +42,6 @@
 ### Links
 <a href="edgarparucho.github.io">Website</a>
 <br>
-<a href="https://linkedin.com/in/parucho">LinkedIn profile</a>
+<a href="https://linkedin.com/in/edgarparucho/">LinkedIn profile</a>
 <br>
 <a href="https://www.goodreads.com/user/show/159675716-edgar-parucho">Goodreads profile</a>
