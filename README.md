@@ -2,39 +2,39 @@
 
 ### Development Stack
 <table>
-	<tr style="background-color: #d9d9d9;">
+	<tr>
 		<td style="border: 1px solid #262626; border-radius: 1px;">
-			<img src="./img/icon_html.png" title="HTML" alt="HTML icon">
+			<img src="./img/icon-html.png" title="HTML" alt="HTML icon">
 		</td>
 		<td style="border: 1px solid #262626; border-radius: 1px;">
-			<img src="./img/icon_css.png" title="CSS" alt="CSS icon">
+			<img src="./img/icon-css.png" title="CSS" alt="CSS icon">
 		</td>
 		<td style="border: 1px solid #262626; border-radius: 1px;">
-			<img src="./img/icon_javascript.png" title="JavaScript" alt="JavaScript icon">
+			<img src="./img/icon-javascript.png" title="JavaScript" alt="JavaScript icon">
 		</td>
 		<td style="border: 1px solid #262626; border-radius: 1px;">
-			<img src="./img/icon_tailwind.png" title="Tailwind CSS" alt="Tailwind CSS icon">
+			<img src="./img/icon-tailwind.png" title="Tailwind CSS" alt="Tailwind CSS icon">
 		</td>
 		<td style="border: 1px solid #262626; border-radius: 1px;">
-			<img src="./img/icon_vue.png" title="Vue JS" alt="Vue JS icon">
+			<img src="./img/icon-vuejs.png" title="Vue JS" alt="Vue JS icon">
 		</td>
 		<td style="border: 1px solid #262626; border-radius: 1px;">
-			<img src="./img/icon_vuetify.png" title="Vuetify JS" alt="Vuetify JS icon">
+			<img src="./img/icon-vuetify.png" title="Vuetify JS" alt="Vuetify JS icon">
 		</td>
 		<td style="border: 1px solid #262626; border-radius: 1px;">
-			<img src="./img/icon_react.png" title="React JS" alt="React JS icon">
+			<img src="./img/icon-reactjs.png" title="React JS" alt="React JS icon">
 		</td>
 		<td style="border: 1px solid #262626; border-radius: 1px;">
-			<img src="./img/icon_nodejs.png" title="Node JS" alt="Node JS icon">
+			<img src="./img/icon-nodejs.png" title="Node JS" alt="Node JS icon">
 		</td>
 		<td style="border: 1px solid #262626; border-radius: 1px;">
-			<img src="./img/icon_express.png" title="Express JS" alt="Express JS icon">
+			<img src="./img/icon-express.png" title="Express JS" alt="Express JS icon">
 		</td>
 		<td style="border: 1px solid #262626; border-radius: 1px;">
-			<img src="./img/icon_postgresql.png" title="PostgreSQL" alt="PostgreSQL icon">
+			<img src="./img/icon-postgresql.png" title="PostgreSQL" alt="PostgreSQL icon">
 		</td>
 		<td style="border: 1px solid #262626; border-radius: 1px;">
-			<img src="./img/icon_mongodb.png" title="Mongo DB" alt="Mongo DB icon">
+			<img src="./img/icon-mongodb.png" title="Mongo DB" alt="Mongo DB icon">
 		</td>
 	</tr>
 </table>
@@ -45,13 +45,3 @@
 <a href="https://linkedin.com/in/parucho">LinkedIn profile</a>
 <br>
 <a href="https://www.goodreads.com/user/show/159675716-edgar-parucho">Goodreads profile</a>
-<table>
-  <tr>
-    <td>
-		</td>
-		<td>
-		</td>
-		<td>
-		</td>
-	</tr>
-</table>
