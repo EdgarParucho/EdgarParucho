@@ -28,7 +28,7 @@
 			<img src="./img/icon-nodejs.png" title="Node JS" alt="Node JS icon">
 		</td>
 		<td style="border: 1px solid #262626; border-radius: 1px;">
-			<img src="./img/icon-express.png" title="Express JS" alt="Express JS icon">
+			<img src="./img/icon-expressjs.png" title="Express JS" alt="Express JS icon">
 		</td>
 		<td style="border: 1px solid #262626; border-radius: 1px;">
 			<img src="./img/icon-postgresql.png" title="PostgreSQL" alt="PostgreSQL icon">
