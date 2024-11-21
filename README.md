@@ -40,7 +40,7 @@
 </table>
 
 ### Links
-<a href="edgarparucho.github.io">Website</a>
+<a href="https://edgarparucho.github.io">Website</a>
 <br>
 <a href="https://linkedin.com/in/edgarparucho/">LinkedIn profile</a>
 <br>
